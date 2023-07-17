@@ -14,7 +14,7 @@ Bem-vindo ao meu perfil do GitHub! Sou Henrique, um entusiasta da programação 
 
 ### 📈 Estatísticas do GitHub
 
-<p align="center">![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=HenriqZimer&show_icons=true&hide=prs,issues&count_private=true&hide_title=true)</p>
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=HenriqZimer&show_icons=true&hide=prs,issues&count_private=true&hide_title=true)
 
 ###
 
