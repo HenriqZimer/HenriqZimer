@@ -8,8 +8,7 @@ Bem-vindo ao meu perfil do GitHub! Sou Henrique, um entusiasta da programação 
 
 - 🔭 Atualmente estou trabalhando na Trinity como Estágiario de T.I (Desenvolvimento).
 - 🌱 Estou sempre aprendendo e aprimorando minhas habilidades em FrontEnd utilizando o VueJS.
-
-<img align="left" height="150" src="https://raw.githubusercontent.com/HenriqZimer/HTML_CSS-CursoEmVideo-Site-Pizzaria/main/imagens/zyro-image.png.jpg"  />
+- 
 
 ###
 
