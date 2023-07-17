@@ -9,6 +9,10 @@ Bem-vindo ao meu perfil do GitHub! Sou Henrique, um entusiasta da programação 
 - 🔭 Atualmente estou trabalhando na Trinity como Estágiario de T.I (Desenvolvimento).
 - 🌱 Estou sempre aprendendo e aprimorando minhas habilidades em FrontEnd utilizando o VueJS.
 
+<img align="left" height="150" src="https://raw.githubusercontent.com/HenriqZimer/HTML_CSS-CursoEmVideo-Site-Pizzaria/main/imagens/zyro-image.png.jpg"  />
+
+###
+
 ### 📈 Estatísticas do GitHub
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=HenriqZimer&show_icons=true&hide=prs,issues&count_private=true&hide_title=true)
@@ -76,10 +80,6 @@ Bem-vindo ao meu perfil do GitHub! Sou Henrique, um entusiasta da programação 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo"  />
 </div>
-
-###
-
-<img align="left" height="150" src="https://raw.githubusercontent.com/HenriqZimer/HTML_CSS-CursoEmVideo-Site-Pizzaria/main/imagens/zyro-image.png.jpg"  />
 
 ###
 
