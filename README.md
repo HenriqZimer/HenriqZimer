@@ -15,7 +15,7 @@ Bem-vindo ao meu perfil do GitHub! Sou Henrique, um entusiasta da programação 
 
 ###
 
-<p align="left">"Além das Fronteiras Digitais": Minhas habilidades se estendem além das fronteiras digitais com o domínio de diversas tecnologias.</p>
+- <p align="left">"Além das Fronteiras Digitais": Minhas habilidades se estendem além das fronteiras digitais com o domínio de diversas tecnologias.</p>
 
 ###
 
@@ -47,7 +47,7 @@ Bem-vindo ao meu perfil do GitHub! Sou Henrique, um entusiasta da programação 
 
 ###
 
-<p align="center">"Jornada em Busca do Saber": Explore as tecnologias que pretendo dominar em minha jornada de aprendizado.</p>
+- <p align="left">"Jornada em Busca do Saber": Explore as tecnologias que pretendo dominar em minha jornada de aprendizado.</p>
 
 ###
 
@@ -79,7 +79,7 @@ Bem-vindo ao meu perfil do GitHub! Sou Henrique, um entusiasta da programação 
 
 ###
 
-<img align="center" height="150" src="https://raw.githubusercontent.com/HenriqZimer/HTML_CSS-CursoEmVideo-Site-Pizzaria/main/imagens/zyro-image.png.jpg"  />
+<img align="left" height="150" src="https://raw.githubusercontent.com/HenriqZimer/HTML_CSS-CursoEmVideo-Site-Pizzaria/main/imagens/zyro-image.png.jpg"  />
 
 ###
 
