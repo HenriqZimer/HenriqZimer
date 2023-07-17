@@ -1,6 +1,6 @@
 ## 👋 Olá, Mundo!
 
-Bem-vindo ao meu perfil do GitHub! Sou Henrique, um entusiasta da programação e apaixonado por aprender cada vez masi no ramo da tecnologia.
+Bem-vindo ao meu perfil do GitHub! Sou Henrique, um entusiasta da programação e apaixonado por aprender cada vez mais no ramo da tecnologia.
 
 ### 🧑‍💻 Sobre Mim
 
