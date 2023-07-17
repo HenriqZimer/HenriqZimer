@@ -18,7 +18,7 @@ Bem-vindo ao meu perfil do GitHub! Sou Henrique, um entusiasta da programação 
 
 ###
 
-- <p align="left">"Além das Fronteiras Digitais": Minhas habilidades se estendem além das fronteiras digitais com o domínio de diversas tecnologias.</p>
+### "Além das Fronteiras Digitais": Minhas habilidades se estendem além das fronteiras digitais com o domínio de diversas tecnologias.
 
 ###
 
@@ -50,7 +50,7 @@ Bem-vindo ao meu perfil do GitHub! Sou Henrique, um entusiasta da programação 
 
 ###
 
-- <p align="left">"Jornada em Busca do Saber": Explore as tecnologias que pretendo dominar em minha jornada de aprendizado.</p>
+### "Jornada em Busca do Saber": Explore as tecnologias que pretendo dominar em minha jornada de aprendizado.
 
 ###
 
