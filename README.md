@@ -8,13 +8,13 @@ Bem-vindo ao meu perfil do GitHub! Sou Henrique, um entusiasta da programação 
 
 - 🔭 Atualmente estou trabalhando na Trinity como Estágiario de T.I (Desenvolvimento).
 - 🌱 Estou sempre aprendendo e aprimorando minhas habilidades em FrontEnd utilizando o VueJS.
-- 
+- Estudei 3 anos Engenharia de Computação porém me transferi para Ciências da Computação.
 
 ###
 
 ### 📈 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=HenriqZimer&show_icons=true&hide=prs,issues&count_private=true&hide_title=true)
+<p align="center">![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=HenriqZimer&show_icons=true&hide=prs,issues&count_private=true&hide_title=true)</p>
 
 ###
 
