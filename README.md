@@ -1,5 +1,3 @@
-# Seu Nome ou Nome de Usuário
-
 ## 👋 Olá, Mundo!
 
 Bem-vindo ao meu perfil do GitHub! Sou Henrique, um entusiasta da programação e apaixonado por aprender cada vez masi no ramo da tecnologia.
