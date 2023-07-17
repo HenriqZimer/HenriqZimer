@@ -78,6 +78,22 @@
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="gmail logo"  />
+
+  # Seu Nome ou Nome de Usuário
+
+## 👋 Olá, Mundo!
+
+Bem-vindo ao meu perfil do GitHub! Sou [Seu Nome], um entusiasta da programação e apaixonado por desenvolvimento de software.
+
+### 🧑‍💻 Sobre Mim
+
+- 🔭 Atualmente estou trabalhando na Trinity como Estágiario de T.I (Desenvolvimento).
+- 🌱 Estou sempre aprendendo e aprimorando minhas habilidades em FrontEnd utilizando o VueJS.
+
+### 📈 Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu_nome_de_usuário&show_icons=true&hide=prs,issues&count_private=true&hide_title=true)
+
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="microsoft-outlook logo"  />
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="telegram logo"  />
