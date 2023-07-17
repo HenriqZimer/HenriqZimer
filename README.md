@@ -50,7 +50,7 @@ Bem-vindo ao meu perfil do GitHub! Sou Henrique, um entusiasta da programação 
 
 ###
 
-### "Jornada em Busca do Saber": Explore as tecnologias que pretendo dominar em minha jornada de aprendizado.
+### "Jornada em Busca do Saber": Algumas das tecnologias que pretendo dominar em minha jornada de aprendizado.
 
 ###
 
@@ -81,6 +81,8 @@ Bem-vindo ao meu perfil do GitHub! Sou Henrique, um entusiasta da programação 
 </div>
 
 ###
+
+### Minhas Redes Sociais
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="instagram logo"  />
