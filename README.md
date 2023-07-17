@@ -19,7 +19,7 @@ Aqui estão alguns dos meus projetos mais notáveis:
 
 ### 📈 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu_nome_de_usuário&show_icons=true&hide=prs,issues&count_private=true&hide_title=true)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=HenriqZimer&show_icons=true&hide=prs,issues&count_private=true&hide_title=true)
 
 ### 📫 Como me Encontrar
 
