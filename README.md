@@ -8,7 +8,7 @@ Bem-vindo ao meu perfil do GitHub! Sou Henrique, um entusiasta da programação 
 
 - 🔭 Atualmente estou trabalhando na Trinity como Estágiario de T.I (Desenvolvimento).
 - 🌱 Estou sempre aprendendo e aprimorando minhas habilidades em FrontEnd utilizando o VueJS.
-- Estudei 3 anos Engenharia de Computação porém me transferi para Ciências da Computação.
+- 📖 Estudei 3 anos Engenharia de Computação porém me transferi para Ciências da Computação para dedicar na area da programação.
 
 ###
 
