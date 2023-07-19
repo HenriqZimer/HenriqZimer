@@ -10,12 +10,6 @@ Bem-vindo ao meu perfil do GitHub! Sou Henrique, um entusiasta da programação 
 
 ###
 
-### 📈 Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=HenriqZimer&show_icons=true&hide=prs,issues&count_private=true&hide_title=true)
-
-###
-
 ### 🎁 "Além das Fronteiras Digitais": Minhas habilidades se estendem além das fronteiras digitais com o domínio de diversas tecnologias.
 
 ###
