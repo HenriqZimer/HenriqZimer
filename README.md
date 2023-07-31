@@ -85,7 +85,5 @@ Bem-vindo ao meu perfil do GitHub! Sou Henrique, um entusiasta da programação 
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="telegram logo"  />
 </div>
 
-### Olá 👋, eu sou [seu nome]!
-
 ![Snake animation](https://github.com/HenriqZimer/HenriqZimer/blob/output/github-contribution-grid-snake.svg)
 
