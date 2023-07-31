@@ -1,0 +1,16 @@
+name: Generate Datas
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'  # run this every 30 min
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: Platane/snk@master
+        with:
+          github_user_name: HenriqZimer
+          github_repo_name: HenriqZimer
+          svg_out_path: dist/github-contribution-grid-snake.svg
