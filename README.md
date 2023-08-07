@@ -85,15 +85,22 @@ Bem-vindo ao meu perfil do GitHub! Sou Henrique, um entusiasta da programação 
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="telegram logo"  />
 </div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=HenriqZimer&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=HenriqZimer&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqZimer&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<h1 align="center">📊 GitHub Stats:</h1>
 
-## 🏆 GitHub Trophies
 <p align="center">
-![](https://github-profile-trophy.vercel.app/?username=HenriqZimer&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+  <img src="https://github-readme-stats.vercel.app/api?username=HenriqZimer&theme=dark&hide_border=false&include_all_commits=true&count_private=false" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HenriqZimer&theme=dark&hide_border=false" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqZimer&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
 </p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=HenriqZimer&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HenriqZimer&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+</p>
+
+<h3 align="center">🔝 Top Contributed Repo</h3>
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=HenriqZimer&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</p>
