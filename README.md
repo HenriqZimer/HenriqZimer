@@ -4,6 +4,26 @@ Olá! Me chamo **Henrique** e sou um entusiasta de tecnologia com experiência p
 
 ---
 
+## 🧠 Sobre mim
+
+💻 Atualmente trabalho com:
+- Ambientes Linux e Windows
+- Virtualização com Proxmox, VMware e Hyper-V
+- Ferramentas Microsoft (Windows Server, Active Directory, PowerShell)
+- Monitoramento com Zabbix e segurança com pfSense
+- Containers com Docker e orquestração com Docker Swarm
+- Automatizações e estudos voltados para DevOps e Cloud (AWS)
+
+🔁 Tenho me aprofundado em práticas DevOps e Cloud, com foco em:
+- Kubernetes
+- CI/CD com GitHub Actions
+- AWS (EC2, S3, RDS, VPC, EBS)
+- Infraestrutura como Código (em breve com Terraform)
+
+🎯 Meu objetivo é evoluir profissionalmente em **DevOps** e **Cloud Computing**, entregando soluções seguras, automatizadas e eficientes.
+
+---
+
 ## 🚀 Tecnologias e Ferramentas
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
@@ -34,25 +54,6 @@ Olá! Me chamo **Henrique** e sou um entusiasta de tecnologia com experiência p
 
 ---
 
-## 🧠 Sobre mim
-
-💻 Atualmente trabalho com:
-- Ambientes Linux e Windows
-- Virtualização com Proxmox, VMware e Hyper-V
-- Ferramentas Microsoft (Windows Server, Active Directory, PowerShell)
-- Monitoramento com Zabbix e segurança com pfSense
-- Containers com Docker e orquestração com Docker Swarm
-- Automatizações e estudos voltados para DevOps e Cloud (AWS)
-
-🔁 Tenho me aprofundado em práticas DevOps e Cloud, com foco em:
-- Kubernetes
-- CI/CD com GitHub Actions
-- AWS (EC2, S3, RDS, VPC, EBS)
-- Infraestrutura como Código (em breve com Terraform)
-
-🎯 Meu objetivo é evoluir profissionalmente em **DevOps** e **Cloud Computing**, entregando soluções seguras, automatizadas e eficientes.
-
----
 
 ## 📫 Vamos nos conectar?
 
