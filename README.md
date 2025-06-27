@@ -48,8 +48,6 @@ Olá! Me chamo **Henrique** e sou um entusiasta de tecnologia com experiência p
 ![AWS Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 ![Kubernetes Essentials](https://img.shields.io/badge/Kubernetes%20Essentials-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
----
-
 
 ## 📫 Vamos nos conectar?
 
