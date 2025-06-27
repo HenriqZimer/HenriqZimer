@@ -16,7 +16,6 @@ Olá! Me chamo **Henrique** e sou um entusiasta de tecnologia com experiência p
 
 🔁 Tenho me aprofundado em práticas DevOps e Cloud, com foco em:
 - Kubernetes
-- CI/CD com GitHub Actions
 - AWS (EC2, S3, RDS, VPC, EBS)
 - Infraestrutura como Código (em breve com Terraform)
 
