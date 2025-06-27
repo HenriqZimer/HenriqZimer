@@ -27,5 +27,5 @@ Olá! Me chamo **Henrique** e sou um entusiasta de tecnologia com experiência p
 ---
 
 📫 **Vamos nos conectar?**
-Se quiser trocar ideias ou colaborar em projetos, fique à vontade para me chamar aqui no GitHub ou pelo [LinkedIn](https://www.linkedin.com/in/seu-perfil).
+Se quiser trocar ideias ou colaborar em projetos, fique à vontade para me chamar aqui no GitHub ou pelo [LinkedIn](https://www.linkedin.com/in/henrique-zimermann/).
 
