@@ -11,7 +11,7 @@ Olá! Me chamo **Henrique** e sou um entusiasta de tecnologia com experiência p
 - Virtualização com Proxmox, VMware e Hyper-V
 - Ferramentas Microsoft (Windows Server, Active Directory, PowerShell)
 - Monitoramento com Zabbix e segurança com pfSense
-- Containers com Docker e orquestração com Docker Swarm
+- Containers com Docker e orquestração com Kubernetes
 - Automatizações e estudos voltados para DevOps e Cloud (AWS)
 
 🔁 Tenho me aprofundado em práticas DevOps e Cloud, com foco em:
@@ -53,4 +53,3 @@ Olá! Me chamo **Henrique** e sou um entusiasta de tecnologia com experiência p
 Se quiser trocar ideias ou colaborar em projetos, me chame no [LinkedIn](https://www.linkedin.com/in/henrique-zimermann).
 
 ---
-
