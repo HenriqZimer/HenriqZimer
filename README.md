@@ -53,3 +53,5 @@ Olá! Me chamo **Henrique** e sou um entusiasta de tecnologia com experiência p
 Se quiser trocar ideias ou colaborar em projetos, me chame no [LinkedIn](https://www.linkedin.com/in/henrique-zimermann).
 
 ---
+  
+  ![Snake animation](https://github.com/alexrese/alexrese/blob/output/github-contribution-grid-snake.svg)
