@@ -85,7 +85,4 @@ Badges verificáveis no [Credly](https://www.credly.com/users/henrique-zimermann
 
 <div align="center">
 <br/>
-
-☁️ Fundador do [AWS Student Builder Group Univali](https://awssbg.com.br) · Core team do DevOpsDays Floripa
-
 </div>
